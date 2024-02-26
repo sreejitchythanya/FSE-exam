@@ -1,5 +1,4 @@
-1.Build a contact page with navbar,footer and a contact form using HTML,CSS and Bootstrap and make it responsive.Include a toggle button to switch between dark and light mode 
+<!-- 1.Build a contact page with navbar,footer and a contact form using HTML,CSS and Bootstrap and make it responsive.Include a toggle button to switch between dark and light mode 
 [contact page should contain your image on the left side and form on the right side ]
 2.Validate it with JavaScript to ensure all required fields are filled before submission.
-3.Once the form is submited properly show the entered details in an alert box 
-
+3.Once the form is submited properly show the entered details in an alert box  -->
